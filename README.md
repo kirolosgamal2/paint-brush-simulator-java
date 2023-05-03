@@ -36,5 +36,5 @@ To build and run the program, follow these steps:
 If you would like to contribute to this project, please fork the repository and submit a pull request. We welcome all contributions, including bug fixes, new features, and documentation improvements.
 
 
-Credits
+# Credits
 This project was created by Kirolos Gamal.
